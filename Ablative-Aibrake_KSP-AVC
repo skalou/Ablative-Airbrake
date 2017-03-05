@@ -1,0 +1,31 @@
+{
+    "NAME":"Ablative-Airbrake",
+    "URL":"https://raw.githubusercontent.com/skalou/Ext-Seat-Dummy/master/Ext-Seat-Dummy_KSP-AVC",
+    "DOWNLOAD":"https://github.com/skalou/Ext-Seat-Dummy",
+    "CHANGE_LOG_URL":"https://raw.githubusercontent.com/skalou/Ext-Seat-Dummy/master/Ext-Seat-Dummy_Changelog",
+    "VERSION":
+    {
+        "MAJOR":0,
+        "MINOR":2,
+        "PATCH":0,
+        "BUILD":0
+    },
+    "KSP_VERSION":
+    {
+        "MAJOR":1,
+        "MINOR":2,
+        "PATCH":2
+    },
+    "KSP_VERSION_MIN":
+    {
+        "MAJOR":1,
+        "MINOR":2,
+        "PATCH":2
+    },
+    "KSP_VERSION_MAX":
+    {
+        "MAJOR":1,
+        "MINOR":2,
+        "PATCH":2
+    }
+} 
