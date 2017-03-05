@@ -2,7 +2,7 @@
 
 Hi,
 
-This Ablative-Airbrake mod adds a stockalike airbrake coated with ablator.
+This "Ablative-Airbrake" mod adds a stockalike airbrake coated with ablator.
 
 This part reuse the stock textures to save your RAM, those included are fake of 4x4 pixels.
 
@@ -14,7 +14,7 @@ Installation:
 
 -On update remove any existing older version.
 
--Copy/paste the folder Ablative-Airbrake in your "Kerbal Space Program\GameData" directory.
+-Copy/paste the folder "Ablative-Airbrake" in your "Kerbal Space Program\GameData" directory.
 
 -Enjoy!
 
