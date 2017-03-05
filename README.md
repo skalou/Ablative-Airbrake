@@ -1,5 +1,7 @@
 # Ablative-Airbrake
 
+http://i.imgur.com/jUuhHMf.png
+
 Hi,
 
 This "Ablative-Airbrake" mod adds a stockalike airbrake coated with ablator.
