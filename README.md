@@ -14,7 +14,7 @@ Installation:
 
 -On update remove any existing older version.
 
--Copy/paste the folder "Ablative-Airbrake" in your "Kerbal Space Program\GameData" directory.
+-Copy/paste the folder "Ablative-Airbrake" in your "Kerbal Space Program/GameData" directory.
 
 -Enjoy!
 
