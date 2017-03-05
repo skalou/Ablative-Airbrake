@@ -4,7 +4,7 @@ Hi,
 
 This "Ablative-Airbrake" mod adds a stockalike airbrake coated with ablator.
 
-This part reuse the stock textures to save your RAM, those included are fake of 4x4 pixels.
+This part reuses the stock textures to save your RAM, those included are fake of 4x4 pixels.
 
 It uses the "KSP Add-on Version Checker" mod if you have it installed (not included in this download) to check its version by using a connexion on my github page given below, read the "KSP Add-on Version Checker" page for more details.
 
