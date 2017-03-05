@@ -20,7 +20,7 @@ Installation:
 
 Download link: 
 
-Forum page: 
+Forum page: http://forum.kerbalspaceprogram.com/index.php?/topic/157353-ablative-airbrake/
 
 Github: https://github.com/skalou/Ablative-Airbrake
 
