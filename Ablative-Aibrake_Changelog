@@ -1,7 +1,7 @@
 Ablative-Airbrake
 
 ### 0.3.0. (07 october 2017)
-- Disabled the ModuleColorChanger feature.
+- Disabled the ModuleColorChanger feature (buged).
 
 ### 0.2.0. (05 March 2017)
 - Added TweakScale compatibility patch, thank's Marcelo Silveira.
