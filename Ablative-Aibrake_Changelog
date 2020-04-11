@@ -5,6 +5,7 @@ Ablative-Airbrake
 - Moved part to Thermal category (with heathshields etc...)
 - Added Localization: English and French for now,
   translators welcome for other languages!
+- Added a compatibilty patch for Realism Overhaul and RP-0, thank's Gordon-Dry.
 
 ### 0.3.0. (07 october 2017)
 - Disabled the ModuleColorChanger feature (buged).
