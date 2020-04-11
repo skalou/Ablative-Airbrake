@@ -1,5 +1,8 @@
 Ablative-Airbrake
 
+### 1.0.1. (11 april 2020)
+- Modified tweakscale compatibility patch.
+
 ### 1.0.0. (11 april 2020)
 - Added A dark version using part variants !
 - Moved part from Aerodynamics to Thermal category (with heathshields etc...)
