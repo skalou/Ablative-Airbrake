@@ -28,4 +28,4 @@ Forum page: http://forum.kerbalspaceprogram.com/index.php?/topic/157353-ablative
 
 Github: https://github.com/skalou/Ablative-Airbrake
 
-KSP Add-on Version Checker: http://forum.kerbalspaceprogram.com/index.php?/topic/72169-12-ksp-avc-add-on-version-checker-plugin-1162-miniavc-ksp-avc-online-2016-10-13/
+KSP Add-on Version Checker: https://forum.kerbalspaceprogram.com/index.php?/topic/173126-180-ksp-avc-add-on-version-checker-plugin-miniavc/
