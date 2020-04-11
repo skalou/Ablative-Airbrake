@@ -1,5 +1,11 @@
 Ablative-Airbrake
 
+### 1.0.0. (11 april 2020)
+- Added A dark version using part variants
+- Moved part to Thermal category (with heathshields etc...)
+- Added Localization: English and French for now,
+  translators welcome for other languages!
+
 ### 0.3.0. (07 october 2017)
 - Disabled the ModuleColorChanger feature (buged).
 
