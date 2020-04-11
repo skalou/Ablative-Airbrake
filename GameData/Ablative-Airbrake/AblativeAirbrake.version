@@ -3,15 +3,15 @@
 	"URL":"https://raw.githubusercontent.com/skalou/Ablative-Airbrake/master/Ablative-Aibrake_KSP-AVC",
 	"VERSION":
 	{
-		"MAJOR":0,
-		"MINOR":2,
+		"MAJOR":1,
+		"MINOR":0,
 		"PATCH":0,
 		"BUILD":0
 	},
 	"KSP_VERSION":
 	{
 		"MAJOR":1,
-		"MINOR":2,
-		"PATCH":2
+		"MINOR":4,
+		"PATCH":0
 	}
 }
