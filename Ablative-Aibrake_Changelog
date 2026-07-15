@@ -1,5 +1,9 @@
 Ablative-Airbrake
 
+### 1.0.8. (15 July 2026)
+- Fixed RealismOverhaul.cfg, thank's Gordon-Dry.
+- Fixed Russian localization file (.txt instead of .cfg), thank's BezKartuza.
+
 ### 1.0.7. (01 July 2026)
 - Fixed missing dark texture and mess in the config files.
 - Added Russian localization, thank's BezKartuza.
